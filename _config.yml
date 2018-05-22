@@ -6,17 +6,17 @@ title: Duo, A Simple Jekyll Theme
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://pzync.github.io"
+url: "https://shekhargurav.com"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/website/"
+# baseurl: "/website/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "shekhargurav"
 author:
-  twitter: "chibicode"
+  twitter: "shekhargurav"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
