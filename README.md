@@ -10,4 +10,3 @@ I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Desi
 
 You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/ShekharGurav).
 
-
