@@ -11,5 +11,6 @@ You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/Shekhar
 ### Featured Writing
 
 **[Imperfect, organic design is the next step.]**(https://uxdesign.cc/imperfect-organic-design-is-the-next-step-f16942ca79b2)
-The current obsession over Pixel Perfect products. And how ‘imperfections’ can make our designs more human.
+
+**[5 learnings every Product Designer should absolutely steal from Studio Ghibli movies]**(https://medium.com/white-space/5-learnings-every-product-designer-should-absolutely-steal-from-studio-ghibli-movies-6c3971fffa0)
 
