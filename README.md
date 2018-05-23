@@ -5,7 +5,7 @@ At Juspay, I’ve led the design of BHIM app which saw transaction volume worth 
 
 Previously, I worked as Head of Product at [Nestaway](https://www.nestaway.com/), a startup funded over USD 90 million by Yuri Milner, Tiger Global and Tata.
 
-I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Design using `p5.js` and sometimes also [draw comics](https://yourstory.com/author/shekhar-gurav). 
+I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Design using `p5.js` & sometimes also [draw comics](https://yourstory.com/author/shekhar-gurav). 
 
 You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/ShekharGurav).
 
