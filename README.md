@@ -9,3 +9,7 @@ I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Desi
 
 You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/ShekharGurav).
 
+
+### Latest Post
+[Imperfect, organic design is the next step](https://uxdesign.cc/imperfect-organic-design-is-the-next-step-f16942ca79b2)
+*The current obsession over Pixel Perfect products. And how ‘imperfections’ can make our designs more human.*
