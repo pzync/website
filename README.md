@@ -8,9 +8,11 @@ I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Desi
 
 You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/ShekharGurav).
 
+
+
 ### Featured Writing
 
-**[Imperfect, organic design is the next step.]**(https://uxdesign.cc/imperfect-organic-design-is-the-next-step-f16942ca79b2)
+**[Imperfect, organic design is the next step.](https://uxdesign.cc/imperfect-organic-design-is-the-next-step-f16942ca79b2)**
 
-**[5 learnings every Product Designer should absolutely steal from Studio Ghibli movies]**(https://medium.com/white-space/5-learnings-every-product-designer-should-absolutely-steal-from-studio-ghibli-movies-6c3971fffa0)
+**[5 learnings every Product Designer should absolutely steal from Studio Ghibli movies](https://medium.com/white-space/5-learnings-every-product-designer-should-absolutely-steal-from-studio-ghibli-movies-6c3971fffa0)**
 
