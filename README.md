@@ -7,3 +7,8 @@ Previously, I worked as Head of Product at Nestaway, a startup funded over USD 9
 I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Design using `p5.js` and sometimes also [draw comics](https://yourstory.com/author/shekhar-gurav). 
 
 You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/ShekharGurav).
+
+### Featured Writing
+
+[Imperfect, organic design is the next step.](https://uxdesign.cc/imperfect-organic-design-is-the-next-step-f16942ca79b2)
+The current obsession over Pixel Perfect products. And how ‘imperfections’ can make our designs more human.
