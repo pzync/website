@@ -1,30 +1,9 @@
-![](https://chibicode.github.io/duo/static/images/og.jpg)
+## Hello! I'm a Designer with experience across Product Creation, Interaction Design and Design Systems. Currently, I head Design at Juspay. 
 
-**Duo** is a simple [Jekyll](http://jekyllrb.com/) theme. You can use duo for a single-page site or a simple blog.
+At Juspay, I’ve led the design of BHIM app which saw transaction volume of INR 4.8 billion in Mar ’18. I also worked on designing the UPI Common Library. This library is currently installed on ~100 million devices; which would become 300 million with inclusion in WhatsApp soon. Various other Juspay products process 2 million+ transactions every single day.
 
-- **Demo Page**: [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
-- **Example Page:** [My React tutorial](https://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/).
-- **GitHub Repo:** [chibicode/duo](https://github.com/chibicode/duo)
+Previously, I worked as Head of Product at Nestaway, a startup funded over USD 90 million by Yuri Milner, Tiger Global and Tata.
 
-<a class="github-button" href="https://github.com/chibicode/duo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star chibicode/duo on GitHub">Star</a>
+I [write on Medium](https://medium.com/@shekhargurav), dabble in Generative Design using `p5.js` and sometimes also [draw comics](https://yourstory.com/author/shekhar-gurav). 
 
-## Get Started
-
-```bash
-# Download and Install
-git clone https://github.com/chibicode/duo.git
-bundle install
-
-# Run
-bundle exec jekyll serve
-# open http://localhost:4000/duo
-```
-
-## Next Steps
-
-See: [Customize Duo](https://chibicode.github.io/duo/posts/customize).
-
-## Like or Retweet Appreciated :)
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Just published: Duo, A Simple Jekyll Theme.  <a href="https://t.co/G2kffR9e4U">https://t.co/G2kffR9e4U</a> <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/923156795824128000?ref_src=twsrc%5Etfw">October 25, 2017</a></blockquote>
-
+You can reach out to me on twitter at [@ShekharGurav](http://twitter.com/ShekharGurav).
